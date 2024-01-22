@@ -23,7 +23,7 @@
     align-self: flex-start;
     width: 60vw;
     margin: 10px 0px;
-    color: #af4d0d; /* Teal color for the heading */
+    color: #af4d0d;
 }
 
 .input {
@@ -33,29 +33,28 @@
 
 .select {
     width: 100%;
-    background-color: lightgoldenrodyellow; /* Light background color for select input */
+    background-color: lightgoldenrodyellow;
     padding: 10px 5px;
     border: 0;
     border-radius: 5px;
-    color: #333333; /* Dark text color for better readability on light background */
+    color: #333333; 
     margin: 15px 0px;
 }
 
 .number_input {
     width: 100%;
-    background-color: #f0f0f0; /* Light background color for number input */
-    padding: 10px 5px;
+    background-color: #f0f0f0; 
     border: 0;
     border-radius: 5px;
-    color: #333333; /* Dark text color for better readability on light background */
+    color: #333333; 
     margin: 15px 0px;
 }
 
 .button {
-    background-color: #008080; /* Teal color for the button */
+    background-color: #008080;
     padding: 5px 15px;
-    color: #f5f5f5; /* Light text color for better contrast on dark button */
-    border: 1px solid #f5f5f5; /* Light border for contrast */
+    color: #f5f5f5; 
+    border: 1px solid #f5f5f5; 
     font-size: 20px;
     border-radius: 10px;
     margin-bottom: 15px;
