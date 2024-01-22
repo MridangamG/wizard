@@ -1,0 +1,62 @@
+.form_component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: #333333; /* Dark text color for better readability on light background */
+    text-align: left;
+    padding-bottom: 50px;
+    background-color: #41B3A3; /* Light background color for a bright theme */
+    font-family: 'Comic Sans MS', cursive; /* Comic Sans MS font */
+}
+
+.image {
+    width: 100%;
+}
+
+.form {
+    width: 60vw;
+}
+
+.form_heading {
+    align-self: flex-start;
+    width: 60vw;
+    margin: 10px 0px;
+    color: #af4d0d; /* Teal color for the heading */
+}
+
+.input {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.select {
+    width: 100%;
+    background-color: lightgoldenrodyellow; /* Light background color for select input */
+    padding: 10px 5px;
+    border: 0;
+    border-radius: 5px;
+    color: #333333; /* Dark text color for better readability on light background */
+    margin: 15px 0px;
+}
+
+.number_input {
+    width: 100%;
+    background-color: #f0f0f0; /* Light background color for number input */
+    padding: 10px 5px;
+    border: 0;
+    border-radius: 5px;
+    color: #333333; /* Dark text color for better readability on light background */
+    margin: 15px 0px;
+}
+
+.button {
+    background-color: #008080; /* Teal color for the button */
+    padding: 5px 15px;
+    color: #f5f5f5; /* Light text color for better contrast on dark button */
+    border: 1px solid #f5f5f5; /* Light border for contrast */
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
